@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Randome Awesome]]></title>
         <description><![CDATA[Randome Awesome]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/randome-awesome/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 22:04:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Dec 2015 22:08:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/randome-awesome/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://uploads.neatorama.com/images/posts/638/86/86638/1449082804-0.jpg">]]></description>
+            <link>https://thegrid.ai/randome-awesome/31d2caab-5950-4066-9f5a-3934c6b88ce0/index.html</link>
+            <guid isPermaLink="false">31d2caab-5950-4066-9f5a-3934c6b88ce0</guid>
+            <pubDate>Wed, 02 Dec 2015 22:07:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Q&A With Virtual Reality Filmmakers Felix & Paul, Part 2]]></title>
             <description><![CDATA[<article><h1>Q&A With Virtual Reality Filmmakers Felix & Paul, Part 2</h1><p>Guest author Emily Atwater works in content strategy at digital agency Huge. She wrote this piece with her colleague Gina Pensiero, who works in content strategy at SoundCloud. Today's virtual reality (VR) movement is only just finding its place in filmmaking. Here, VR filmmakers Felix & Paul discuss the nature of production using this immersive, 360-degree medium.</p><img src="http://a5.files.readwrite.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTMxMTQ1MTAyMjIyNDg3NTIy.jpg"></article>]]></description>
