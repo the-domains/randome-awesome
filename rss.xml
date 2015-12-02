@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Randome Awesome]]></title>
+        <description><![CDATA[Randome Awesome]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Dec 2015 22:04:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Q&A With Virtual Reality Filmmakers Felix & Paul, Part 2]]></title>
+            <description><![CDATA[<article><h1>Q&A With Virtual Reality Filmmakers Felix & Paul, Part 2</h1><p>Guest author Emily Atwater works in content strategy at digital agency Huge. She wrote this piece with her colleague Gina Pensiero, who works in content strategy at SoundCloud. Today's virtual reality (VR) movement is only just finding its place in filmmaking. Here, VR filmmakers Felix & Paul discuss the nature of production using this immersive, 360-degree medium.</p><img src="http://a5.files.readwrite.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTMxMTQ1MTAyMjIyNDg3NTIy.jpg"></article>]]></description>
+            <link>http://readwrite.com/2015/12/02/felix-paul-virtual-reality-filmmaking-vr-qa-2</link>
+            <guid isPermaLink="false">c6b925c1-c7dc-4e02-bf00-a3845de1af59</guid>
+            <pubDate>Wed, 02 Dec 2015 22:04:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
